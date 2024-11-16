@@ -239,14 +239,3 @@ MIT © [Dooy](./license)
 
 ## 捐助
 如果我的开源项目对你有帮助，请考虑通过以下任意一种方式赞助: 
-<br> `付款备注上您的联系方式`
-<div style="display: flex; flex-wrap: wrap">
-    <div style="width:200px">
-        <img src="./docs/wxpay.jpg"  style="width:200px">
-        <div>微信捐助</div>
-    </div>
-    <div style="width:200px">
-        <img src="./docs/alipay.jpg"  style="width:200px"> 
-        <div>支付宝捐助</div>
-    </div>
-</div>
